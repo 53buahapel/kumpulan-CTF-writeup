@@ -5,7 +5,11 @@ Berikut adalah kumpulan writeup CTF Indonesia dan CTF Inter, kalo mau add wu tin
 Formatnya
 
 ├── <Nama CTF/EVENT>
+
 │   ├── <Nama CTF/EVENT + TAHUN>
+
 │   │   ├── <WRITE-UP 1>
+
 │   │   ├── <WRITE-UP 2> 
+
 │   │   │ 
